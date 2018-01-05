@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h clientversion.h \
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/obj/build.h
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/obj/build.h
 version.cpp version.h clientversion.h :
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/obj/build.h :
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/obj/build.h :

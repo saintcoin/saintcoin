@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BlockCash</source>
-        <translation>О BlockCash</translation>
+        <source>About Saint</source>
+        <translation>О Saint</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BlockCash&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BlockCash&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;Saint&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Saint&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlockCash developers</source>
+Copyright © 2014 The Saint developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики BlockCash</translation>
+Все права защищены © 2014 Разработчики Saint</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BlockCash addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Saint addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BlockCash address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом BlockCash</translation>
+        <source>Sign a message to prove you own a Saint address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Saint</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BlockCash address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом BlockCash</translation>
+        <source>Verify a message to ensure it was signed with a specified Saint address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Saint</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BlockCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Saint will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BlockCash</source>
-        <translation>Показать информацию о BlockCash&apos;е</translation>
+        <source>Show information about Saint</source>
+        <translation>Показать информацию о Saint&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BlockCash address</source>
-        <translation>Отправить монеты на указанный адрес BlockCash</translation>
+        <source>Send coins to a Saint address</source>
+        <translation>Отправить монеты на указанный адрес Saint</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BlockCash</source>
-        <translation>Изменить параметры конфигурации BlockCash</translation>
+        <source>Modify configuration options for Saint</source>
+        <translation>Изменить параметры конфигурации Saint</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>BlockCash</source>
-        <translation>BlockCash</translation>
+        <source>Saint</source>
+        <translation>Saint</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BlockCash</source>
-        <translation>&amp;О BlockCash</translation>
+        <source>&amp;About Saint</source>
+        <translation>&amp;О Saint</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BlockCash client</source>
-        <translation>BlockCash клиент</translation>
+        <source>Saint client</source>
+        <translation>Saint клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BlockCash network</source>
+        <source>%n active connection(s) to Saint network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -659,8 +659,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BlockCash address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом BlockCash или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Saint address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Saint или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BlockCash can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. BlockCash не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Saint can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. Saint не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1039,8 +1039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BlockCash address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным BlockCash-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Saint address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным Saint-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BlockCash-Qt</source>
-        <translation>BlockCash-Qt</translation>
+        <source>Saint-Qt</source>
+        <translation>Saint-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BlockCash after logging in to the system.</source>
-        <translation>Автоматически запускать BlockCash после входа в систему</translation>
+        <source>Automatically start Saint after logging in to the system.</source>
+        <translation>Автоматически запускать Saint после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BlockCash on system login</source>
-        <translation>&amp;Запускать BlockCash при входе в систему</translation>
+        <source>&amp;Start Saint on system login</source>
+        <translation>&amp;Запускать Saint при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,8 +1156,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BlockCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для BlockCash-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the Saint client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для Saint-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BlockCash network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети BlockCash через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the Saint network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети Saint через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,8 +1241,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BlockCash.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска BlockCash.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Saint.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Saint.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BlockCash addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса BlockCash в списке транзакций.</translation>
+        <source>Whether to show Saint addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса Saint в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1303,8 +1303,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BlockCash.</source>
-        <translation>Эта настройка вступит в силу после перезапуска BlockCash</translation>
+        <source>This setting will take effect after restarting Saint.</source>
+        <translation>Эта настройка вступит в силу после перезапуска Saint</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1322,8 +1322,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockCash network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью BlockCash после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Saint network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Saint после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1538,8 +1538,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BlockCash-Qt help message to get a list with possible BlockCash command-line options.</source>
-        <translation>Показать помощь по BlockCash-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the Saint-Qt help message to get a list with possible Saint command-line options.</source>
+        <translation>Показать помощь по Saint-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1558,13 +1558,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BlockCash - Debug window</source>
-        <translation>BlockCash - Окно отладки</translation>
+        <source>Saint - Debug window</source>
+        <translation>Saint - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BlockCash Core</source>
-        <translation>Ядро BlockCash</translation>
+        <source>Saint Core</source>
+        <translation>Ядро Saint</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1573,8 +1573,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BlockCash debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл BlockCash из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the Saint debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл Saint из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BlockCash RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль BlockCash.</translation>
+        <source>Welcome to the Saint RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль Saint.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите BlockCash-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Введите Saint-адрес (например ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1842,7 +1842,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BlockCash address</source>
+        <source>WARNING: Invalid Saint address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1886,8 +1886,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Адрес получателя платежа (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Адрес получателя платежа (например ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1916,8 +1916,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите BlockCash-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Введите Saint-адрес (например ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
 </context>
 <context>
@@ -1940,8 +1940,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BlockCash address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом BlockCash</translation>
+        <source>Sign the message to prove you own this Saint address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Saint</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2004,13 +2004,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BlockCash address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом BlockCash</translation>
+        <source>Verify the message to ensure it was signed with the specified Saint address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Saint</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес BlockCash (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Введите адрес Saint (напр. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BlockCash signature</source>
-        <translation>Введите подпись BlockCash</translation>
+        <source>Enter Saint signature</source>
+        <translation>Введите подпись Saint</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2601,7 +2601,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BlockCash version</source>
+        <source>Saint version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2611,8 +2611,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or blockcashd</source>
-        <translation>Отправить команду на -server или blockcashd</translation>
+        <source>Send command to -server or saintd</source>
+        <translation>Отправить команду на -server или saintd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2632,13 +2632,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: blockcash.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: blockcash.conf)</translation>
+        <source>Specify configuration file (default: saint.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: saint.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: blockcashd.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: blockcashd.pid)</translation>
+        <source>Specify pid file (default: saintd.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: saintd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2662,8 +2662,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 29251 or testnet: 39251)</source>
-        <translation>Принимать входящие подключения на &lt;port&gt; (по умолчанию: 29251 или 39251 в тестовой сети)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 11333 or testnet: 21333)</source>
+        <translation>Принимать входящие подключения на &lt;port&gt; (по умолчанию: 11333 или 21333 в тестовой сети)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2722,8 +2722,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29252 or testnet: 39252)</source>
-        <translation>Прослушивать подключения JSON-RPC на &lt;порту&gt; (по умолчанию: 29252 или для testnet: 39252)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 11332 or testnet: 21332)</source>
+        <translation>Прослушивать подключения JSON-RPC на &lt;порту&gt; (по умолчанию: 11332 или для testnet: 21332)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2787,8 +2787,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BlockCash will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, BlockCash будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Saint will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Saint будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2977,13 +2977,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=blockcashrpc
+rpcuser=saintrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Saint Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3109,13 +3109,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BlockCash is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Saint is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BlockCash</source>
-        <translation>BlockCash</translation>
+        <source>Saint</source>
+        <translation>Saint</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BlockCash</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию BlockCash</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Saint</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Saint</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BlockCash to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите BlockCash для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart Saint to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите Saint для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3224,8 +3224,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BlockCash is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, BlockCash уже работает.</translation>
+        <source>Unable to bind to %s on this computer. Saint is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Saint уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

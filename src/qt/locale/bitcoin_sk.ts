@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BlockCash</source>
-        <translation>O BlockCashe</translation>
+        <source>About Saint</source>
+        <translation>O Sainte</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BlockCash&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;BlockCashu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Saint&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;Saintu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlockCash developers</source>
+Copyright © 2014 The Saint developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlockCash developers</translation>
+Copyright © 2014 The Saint developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BlockCash addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše BlockCash adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your Saint addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Saint adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BlockCash address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto BlockCash adresu</translation>
+        <source>Sign a message to prove you own a Saint address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Saint adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BlockCash address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou BlockCash adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Saint address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Saint adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>BlockCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BlockCash sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>Saint will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Saint sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BlockCash</source>
-        <translation>Zobraziť informácie o BlockCash</translation>
+        <source>Show information about Saint</source>
+        <translation>Zobraziť informácie o Saint</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BlockCash address</source>
-        <translation>Poslať mince na BlockCash adresu</translation>
+        <source>Send coins to a Saint address</source>
+        <translation>Poslať mince na Saint adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BlockCash</source>
-        <translation>Upraviť možnosti konfigurácie pre BlockCash</translation>
+        <source>Modify configuration options for Saint</source>
+        <translation>Upraviť možnosti konfigurácie pre Saint</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>BlockCash</source>
-        <translation>BlockCash</translation>
+        <source>Saint</source>
+        <translation>Saint</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BlockCash</source>
-        <translation>&amp;O BlockCash</translation>
+        <source>&amp;About Saint</source>
+        <translation>&amp;O Saint</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BlockCash client</source>
-        <translation>BlockCash klient</translation>
+        <source>Saint client</source>
+        <translation>Saint klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BlockCash network</source>
-        <translation><numerusform>%n aktívne spojenie s BlockCash sieťov</numerusform><numerusform>%n aktívnych spojení s BlockCash sieťov</numerusform><numerusform>%n aktívnych spojení s BlockCash sieťou</numerusform></translation>
+        <source>%n active connection(s) to Saint network</source>
+        <translation><numerusform>%n aktívne spojenie s Saint sieťov</numerusform><numerusform>%n aktívnych spojení s Saint sieťov</numerusform><numerusform>%n aktívnych spojení s Saint sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BlockCash address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou BlockCash adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Saint address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Saint adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BlockCash can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. BlockCash už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Saint can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Saint už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BlockCash address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou BlockCash adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Saint address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Saint adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BlockCash-Qt</source>
-        <translation>BlockCash-Qt</translation>
+        <source>Saint-Qt</source>
+        <translation>Saint-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BlockCash after logging in to the system.</source>
-        <translation>Automaticky spustiť BlockCash po prihlásení sa do systému.</translation>
+        <source>Automatically start Saint after logging in to the system.</source>
+        <translation>Automaticky spustiť Saint po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BlockCash on system login</source>
-        <translation>&amp;Spustiť BlockCash pri prihlásení do systému</translation>
+        <source>&amp;Start Saint on system login</source>
+        <translation>&amp;Spustiť Saint pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BlockCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta BlockCash na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Saint client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Saint na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BlockCash network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti BlockCash cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Saint network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Saint cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BlockCash.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní BlockCash.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Saint.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Saint.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BlockCash addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť BlockCash adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show Saint addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť Saint adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BlockCash.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní BlockCash.</translation>
+        <source>This setting will take effect after restarting Saint.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Saint.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockCash network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou BlockCash po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Saint network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Saint po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BlockCash-Qt help message to get a list with possible BlockCash command-line options.</source>
-        <translation>Zobraziť BlockCash-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku BlockCash.</translation>
+        <source>Show the Saint-Qt help message to get a list with possible Saint command-line options.</source>
+        <translation>Zobraziť Saint-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Saint.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BlockCash - Debug window</source>
-        <translation>BlockCash - Ladiace okno</translation>
+        <source>Saint - Debug window</source>
+        <translation>Saint - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BlockCash Core</source>
-        <translation>Jadro BlockCash</translation>
+        <source>Saint Core</source>
+        <translation>Jadro Saint</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BlockCash debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte BlockCash súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the Saint debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte Saint súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BlockCash RPC console.</source>
-        <translation>Vitajte v konzole BlockCash RPC.</translation>
+        <source>Welcome to the Saint RPC console.</source>
+        <translation>Vitajte v konzole Saint RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte BlockCash adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Zadajte Saint adresu (napr. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BlockCash address</source>
-        <translation>UPOZORNENIE: Neplatná BlockCash adresa</translation>
+        <source>WARNING: Invalid Saint address</source>
+        <translation>UPOZORNENIE: Neplatná Saint adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1899,8 +1899,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa pre poslanie platby (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Adresa pre poslanie platby (napr. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte BlockCash adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Zadajte Saint adresu (napr. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
 </context>
 <context>
@@ -1953,8 +1953,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa na podpísanie správy (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Adresa na podpísanie správy (napr. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BlockCash address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto BlockCash adresu</translation>
+        <source>Sign the message to prove you own this Saint address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Saint adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2017,13 +2017,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa správy bola podpísaná (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Adresa správy bola podpísaná (napr. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BlockCash address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou BlockCash adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Saint address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Saint adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte BlockCash adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Zadajte Saint adresu (napr. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BlockCash signature</source>
-        <translation>Zadajte BlockCash podpis</translation>
+        <source>Enter Saint signature</source>
+        <translation>Zadajte Saint podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BlockCash version</source>
-        <translation>BlockCash verzia</translation>
+        <source>Saint version</source>
+        <translation>Saint verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or blockcashd</source>
-        <translation>Pošli príkaz na -server alebo blockcashd</translation>
+        <source>Send command to -server or saintd</source>
+        <translation>Pošli príkaz na -server alebo saintd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: blockcash.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: blockcash.conf)</translation>
+        <source>Specify configuration file (default: saint.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: saint.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: blockcashd.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: blockcashd.pid)</translation>
+        <source>Specify pid file (default: saintd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: saintd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2674,8 +2674,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 29251 or testnet: 39251)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 29251 alebo testovacia sieť: 39251)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 11333 or testnet: 21333)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 11333 alebo testovacia sieť: 21333)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2734,8 +2734,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29252 or testnet: 39252)</source>
-        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 29252 alebo testovaciasieť: 39252)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 11332 or testnet: 21332)</source>
+        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 11332 alebo testovaciasieť: 21332)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BlockCash will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny BlockCash nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Saint will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Saint nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=blockcashrpc
+rpcuser=saintrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Saint Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=blockcashrpc
+rpcuser=saintrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;Saint Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BlockCash is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. BlockCash už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Saint is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. Saint už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BlockCash</source>
-        <translation>BlockCash</translation>
+        <source>Saint</source>
+        <translation>Saint</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BlockCash</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu BlockCash</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Saint</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Saint</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BlockCash to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte BlockCash k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Saint to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Saint k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BlockCash is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. BlockCash je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Saint is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Saint je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

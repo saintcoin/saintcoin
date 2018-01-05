@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BlockCash</source>
-        <translation>Despre BlockCash</translation>
+        <source>About Saint</source>
+        <translation>Despre Saint</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BlockCash&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;BlockCash&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Saint&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Saint&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlockCash developers</source>
+Copyright © 2014 The Saint developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlockCash developers</translation>
+Copyright © 2014 The Saint developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BlockCash addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele BlockCash pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Saint addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Saint pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BlockCash address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BlockCash</translation>
+        <source>Sign a message to prove you own a Saint address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Saint</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BlockCash address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BlockCash</translation>
+        <source>Verify a message to ensure it was signed with a specified Saint address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Saint</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>BlockCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BlockCash se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Saint will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Saint se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BlockCash</source>
-        <translation>Arată informații despre BlockCash</translation>
+        <source>Show information about Saint</source>
+        <translation>Arată informații despre Saint</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BlockCash address</source>
-        <translation>Trimite monede către o adresă BlockCash</translation>
+        <source>Send coins to a Saint address</source>
+        <translation>Trimite monede către o adresă Saint</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BlockCash</source>
-        <translation>Modifică opțiuni de configurare pentru BlockCash</translation>
+        <source>Modify configuration options for Saint</source>
+        <translation>Modifică opțiuni de configurare pentru Saint</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>BlockCash</source>
-        <translation>BlockCash</translation>
+        <source>Saint</source>
+        <translation>Saint</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BlockCash</source>
-        <translation>Despre BlockCash</translation>
+        <source>&amp;About Saint</source>
+        <translation>Despre Saint</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BlockCash client</source>
-        <translation>Clientul BlockCash</translation>
+        <source>Saint client</source>
+        <translation>Clientul Saint</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BlockCash network</source>
-        <translation><numerusform>%n conexiune activă la reteaua BlockCash</numerusform><numerusform>%n conexiuni active la reteaua BlockCash</numerusform><numerusform>%n conexiuni active la reteaua BlockCash</numerusform></translation>
+        <source>%n active connection(s) to Saint network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Saint</numerusform><numerusform>%n conexiuni active la reteaua Saint</numerusform><numerusform>%n conexiuni active la reteaua Saint</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BlockCash address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa BlockCash invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Saint address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Saint invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BlockCash can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. BlockCash nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Saint can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Saint nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BlockCash address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă BlockCash validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Saint address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Saint validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BlockCash-Qt</source>
-        <translation>BlockCash-Qt</translation>
+        <source>Saint-Qt</source>
+        <translation>Saint-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BlockCash after logging in to the system.</source>
-        <translation>Pornește BlockCash imdiat după logarea în sistem</translation>
+        <source>Automatically start Saint after logging in to the system.</source>
+        <translation>Pornește Saint imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BlockCash on system login</source>
-        <translation>$Pornește BlockCash la logarea în sistem</translation>
+        <source>&amp;Start Saint on system login</source>
+        <translation>$Pornește Saint la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BlockCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul BlockCash pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Saint client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Saint pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BlockCash network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua BlockCash prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Saint network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Saint prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BlockCash.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea BlockCash.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Saint.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Saint.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BlockCash addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese BlockCash din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Saint addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Saint din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BlockCash.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea BlockCash.</translation>
+        <source>This setting will take effect after restarting Saint.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Saint.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockCash network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua BlockCash după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Saint network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Saint după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BlockCash-Qt help message to get a list with possible BlockCash command-line options.</source>
-        <translation>Afișa mesajul de ajutor BlockCash-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă BlockCash.</translation>
+        <source>Show the Saint-Qt help message to get a list with possible Saint command-line options.</source>
+        <translation>Afișa mesajul de ajutor Saint-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Saint.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BlockCash - Debug window</source>
-        <translation>BlockCash - fereastră depanare</translation>
+        <source>Saint - Debug window</source>
+        <translation>Saint - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BlockCash Core</source>
-        <translation>BlockCash Core</translation>
+        <source>Saint Core</source>
+        <translation>Saint Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BlockCash debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare BlockCash din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Saint debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Saint din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BlockCash RPC console.</source>
-        <translation>Bine ati venit la consola BlockCash RPC.</translation>
+        <source>Welcome to the Saint RPC console.</source>
+        <translation>Bine ati venit la consola Saint RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă BlockCash(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Introduceți o adresă Saint(ex:ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BlockCash address</source>
-        <translation>Atenție: Adresă BlockCash invalidă</translation>
+        <source>WARNING: Invalid Saint address</source>
+        <translation>Atenție: Adresă Saint invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1900,8 +1900,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa catre care trimiteti plata(ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Adresa catre care trimiteti plata(ex. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă BlockCash(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Introduceți o adresă Saint(ex:ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
 </context>
 <context>
@@ -1954,8 +1954,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa cu care semnati mesajul(ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Adresa cu care semnati mesajul(ex. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BlockCash address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BlockCash</translation>
+        <source>Sign the message to prove you own this Saint address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Saint</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2018,13 +2018,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BlockCash address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BlockCash</translation>
+        <source>Verify the message to ensure it was signed with the specified Saint address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Saint</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BlockCash address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă BlockCash(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Saint address (e.g. ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</source>
+        <translation>Introduceți o adresă Saint(ex:ShD3vUrPv6g8RwiLF2V29atzTC5qnTMChb)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BlockCash signature</source>
-        <translation>Introduceti semnatura BlockCash</translation>
+        <source>Enter Saint signature</source>
+        <translation>Introduceti semnatura Saint</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BlockCash version</source>
-        <translation>Versiune BlockCash</translation>
+        <source>Saint version</source>
+        <translation>Versiune Saint</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or blockcashd</source>
-        <translation>Trimite comanda catre server sau blockcashd</translation>
+        <source>Send command to -server or saintd</source>
+        <translation>Trimite comanda catre server sau saintd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: blockcash.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: blockcash.conf)</translation>
+        <source>Specify configuration file (default: saint.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: saint.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: blockcashd.pid)</source>
-        <translation>Speficica fisier pid(implicit: blockcash.pid)</translation>
+        <source>Specify pid file (default: saintd.pid)</source>
+        <translation>Speficica fisier pid(implicit: saint.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2675,8 +2675,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 29251 or testnet: 39251)</source>
-        <translation>Ascultă pentru conectări pe &lt;port&gt; (implicit:  29251 sau testnet: 39251) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 11333 or testnet: 21333)</source>
+        <translation>Ascultă pentru conectări pe &lt;port&gt; (implicit:  11333 sau testnet: 21333) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2735,8 +2735,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29252 or testnet: 39252)</source>
-        <translation>Ascultă pentru conexiuni JSON-RPC pe &lt;port&gt; (implicit:29252 sau testnet: 39252)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 11332 or testnet: 21332)</source>
+        <translation>Ascultă pentru conexiuni JSON-RPC pe &lt;port&gt; (implicit:11332 sau testnet: 21332)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BlockCash will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit BlockCash nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Saint will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Saint nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,22 +2990,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=blockcashrpc
+rpcuser=saintrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Saint Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=blockcashrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=saintrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Saint Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BlockCash is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Saint is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BlockCash</source>
-        <translation>BlockCash</translation>
+        <source>Saint</source>
+        <translation>Saint</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BlockCash</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de BlockCash</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Saint</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Saint</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BlockCash to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați BlockCash pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Saint to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Saint pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;BlockCash Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BlockCash is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil BlockCash ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Saint is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Saint ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

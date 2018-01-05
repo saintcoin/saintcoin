@@ -8,12 +8,12 @@ obj/miner.o: miner.cpp txdb.h txdb-leveldb.h main.h bignum.h serialize.h \
  zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h \
  zerocoin/SpendMetaData.h zerocoin/../uint256.h \
  zerocoin/ParamGeneration.h \
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/db.h \
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/iterator.h \
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/slice.h \
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/status.h \
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/options.h \
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/write_batch.h \
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/db.h \
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/iterator.h \
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/slice.h \
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/status.h \
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/options.h \
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/write_batch.h \
  miner.h wallet.h ui_interface.h walletdb.h db.h base58.h kernel.h
 miner.cpp txdb.h txdb-leveldb.h main.h bignum.h serialize.h :
  allocators.h version.h clientversion.h uint256.h sync.h threadsafety.h :
@@ -25,10 +25,10 @@ miner.cpp txdb.h txdb-leveldb.h main.h bignum.h serialize.h :
  zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h :
  zerocoin/SpendMetaData.h zerocoin/../uint256.h :
  zerocoin/ParamGeneration.h :
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/db.h :
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/iterator.h :
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/slice.h :
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/status.h :
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/options.h :
- /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/write_batch.h :
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/db.h :
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/iterator.h :
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/slice.h :
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/status.h :
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/options.h :
+ /media/dony/C87C87EC7C87D39A/saintcoin/src/leveldb/include/leveldb/write_batch.h :
  miner.h wallet.h ui_interface.h walletdb.h db.h base58.h kernel.h :
