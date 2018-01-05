@@ -1,0 +1,42 @@
+obj/txdb-leveldb.o: txdb-leveldb.cpp \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/env.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/status.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/slice.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/cache.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/filter_policy.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/helpers/memenv/memenv.h \
+ kernel.h main.h bignum.h serialize.h allocators.h version.h \
+ clientversion.h uint256.h sync.h threadsafety.h net.h mruset.h netbase.h \
+ compat.h protocol.h addrman.h util.h script.h keystore.h crypter.h key.h \
+ scrypt.h zerocoin/Zerocoin.h zerocoin/../serialize.h \
+ zerocoin/../bignum.h zerocoin/../util.h zerocoin/Params.h \
+ zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h \
+ zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h \
+ zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h \
+ zerocoin/../uint256.h zerocoin/ParamGeneration.h checkpoints.h txdb.h \
+ txdb-leveldb.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/db.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/iterator.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/options.h \
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/write_batch.h
+txdb-leveldb.cpp :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/env.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/status.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/slice.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/cache.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/filter_policy.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/helpers/memenv/memenv.h :
+ kernel.h main.h bignum.h serialize.h allocators.h version.h :
+ clientversion.h uint256.h sync.h threadsafety.h net.h mruset.h netbase.h :
+ compat.h protocol.h addrman.h util.h script.h keystore.h crypter.h key.h :
+ scrypt.h zerocoin/Zerocoin.h zerocoin/../serialize.h :
+ zerocoin/../bignum.h zerocoin/../util.h zerocoin/Params.h :
+ zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h :
+ zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h :
+ zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h :
+ zerocoin/../uint256.h zerocoin/ParamGeneration.h checkpoints.h txdb.h :
+ txdb-leveldb.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/db.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/iterator.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/options.h :
+ /media/dony/C87C87EC7C87D39A/Users/Asus/Downloads/blockcash-source/src/leveldb/include/leveldb/write_batch.h :
