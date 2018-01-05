@@ -1,7 +1,7 @@
 src/*.exe
-src/blockcash
-src/blockcashd
-src/test_blockcash
+src/saint
+src/saintd
+src/test_saint
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.blockcash
+.saint
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-blockcash-qt
+saint-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
